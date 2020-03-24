@@ -1,6 +1,6 @@
 Package: ArchaeoPhases.dataset
 Version: 0.1.0.9000
-Depends: R (>= 3.50)
+Depends: R (>= 3.5.0)
 License: GPL-3
-MD5sum: fe96f7112aa65e474cbbb018ed31d808
+MD5sum: 4b5558f2a1ac87ef74f6b41d0b7d1ea4
 NeedsCompilation: no
