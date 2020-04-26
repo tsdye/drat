@@ -3,7 +3,7 @@ Version: 0.0.2.0
 Imports: ArchaeoPhases, ggraph, ggplot2, khroma
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 2cd53b5dba7f2666e414e4f9946384ed
+MD5sum: 177805db2f2412bb08abbcf92c8af0b3
 NeedsCompilation: no
 
 Package: ArchaeoPhases.dataset
