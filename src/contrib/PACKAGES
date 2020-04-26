@@ -1,9 +1,9 @@
 Package: allen.archaeology
-Version: 0.0.1.0
+Version: 0.0.2.0
 Imports: ArchaeoPhases, ggraph, ggplot2, khroma
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 399b6076d5682e5ed18950888d2a63f5
+MD5sum: 2cd53b5dba7f2666e414e4f9946384ed
 NeedsCompilation: no
 
 Package: ArchaeoPhases.dataset
